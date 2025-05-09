@@ -6,6 +6,7 @@
 <br/>
 This is a demo program for drowsiness detection using facial features and physiological signals. <br/>
 <br/>
+
 While our research explores multi-class drowsiness detection, this demo focuses on a **simplified binary classification** using **XGBoost** to distinguish between drowsy and alert states.  
 
 
